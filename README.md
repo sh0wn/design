@@ -1,2 +1,2 @@
-# wireframes
-Wireframe experiments and prompts
+# design
+Design process, experiments, and prompts
