@@ -1,4 +1,5 @@
-V1 : 1/10/26
+# Mini PRD
+
 ## Project Name:
 [Feature or project name]
 
@@ -44,3 +45,7 @@ WHY: Veterans expect personalized results when logged in; important content is i
 * This PRD is designed for solo drafting → team pitching → rapid prototyping
 * Evidence requirement: Minimum of one source to maintain evidence-based decision making
 * For full discovery process and triangulation requirements, see [Digital Product Design Playbook]
+
+---
+
+*Version 1.0 - Created January 2026*
