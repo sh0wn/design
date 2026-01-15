@@ -45,7 +45,7 @@ WHY: Veterans expect personalized results when logged in; important content is i
 ## Notes:
 * This PRD is designed for solo drafting → team pitching → rapid prototyping
 * Evidence requirement: Minimum of one source to maintain evidence-based decision making
-* For full discovery process and triangulation requirements, see [Digital Product Design Playbook]
+* For full discovery process and triangulation requirements, see [Digital Product Design Playbook](https://github.com/sh0wn/design/blob/main/Digital%20Product%20Design%20Playbook.md)
 
 ---
 
