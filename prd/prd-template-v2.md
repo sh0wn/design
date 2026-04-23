@@ -5,6 +5,7 @@ modified: 2026-04-23
 author: Shawn with Claude App
 status: draft
 context: personal
+summary: This template is the connective tissue in an AI-integrated design workflow. Before filling it out, use a conversational LLM to stress-test the idea — surface risks, challenge assumptions, and pressure-test the problem framing. The PRD captures what was learned. After filling it out, the High-Level Approach section provides enough specificity to hand off directly to an AI prototyping tool (Claude Code, VA Prototype Kit) before touching Figma. The goal: experiment earlier, validate faster, and arrive in Figma with a concept that's already been tested.
 ---
 
 # Napkin Sketch PRD
