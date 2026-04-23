@@ -1,4 +1,4 @@
-# Mini PRD
+# Mini PRD v1
 *Don't waste time building the wrong thing! This is a "one-page" document that forces me to clearly explain what the problem is, who I'm solving it for, and why I'm solving it.*
 
 ## Project Name:
